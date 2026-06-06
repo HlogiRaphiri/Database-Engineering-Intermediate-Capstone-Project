@@ -3,5 +3,4 @@
 
 *.log
 logs/
-
- *.txt
+*.txt
