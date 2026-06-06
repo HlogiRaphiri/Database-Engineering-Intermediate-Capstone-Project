@@ -1,7 +1,2 @@
-.env
-.env.*
-
-
-*.log
-logs/
 *.txt
+*.sql
