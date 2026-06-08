@@ -1,3 +1,5 @@
 *.txt
-*.text
-*.sql
+
+# Explicitly ignore zaio student data files
+zaio_student_data.txt
+zaio_student_data*.txt
